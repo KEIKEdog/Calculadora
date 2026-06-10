@@ -69,5 +69,5 @@ A seguir estão os prints da aplicação executando as operações:
 ### Divisão
 ![alt text](Divisão.png)
 ![alt text](<Divisão resultado.png>)
-## Conclusão
+
 
