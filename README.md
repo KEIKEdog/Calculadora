@@ -59,16 +59,15 @@ A seguir estão os prints da aplicação executando as operações:
 ![alt text](<Soma - resultado-1.png>)
 
 ### Subtração
-
+![alt text](Subtração.png)
+![alt text](Subtração.resultado.png)
 
 ### Multiplicação
-
-(Adicionar print aqui)
+![alt text](Multiplicação-1.png)
+![alt text](<Multiplicação resultado-1.png>)
 
 ### Divisão
-
-(Adicionar print aqui)
-
+![alt text](Divisão.png)
+![alt text](<Divisão resultado.png>)
 ## Conclusão
 
-O projeto permitiu aplicar conceitos vistos em aula, como manipulação do DOM, eventos de clique, funções JavaScript, estilização com CSS e estruturação de páginas HTML.
